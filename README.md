@@ -73,6 +73,6 @@ The organizer-side grader is open-sourced alongside the problem statement for fu
 
 ## Credits
 
-Built by *[TakeMe2Space]* for *[Aeon 418]*, *[2026]*. Basilisk Astrodynamics Framework © University of Colorado AVS Lab.
+Built by *TakeMe2Space* for *Aeon 418*, *2026*. Basilisk Astrodynamics Framework © University of Colorado AVS Lab.
 
 Licensed under [MIT](./LICENSE).
